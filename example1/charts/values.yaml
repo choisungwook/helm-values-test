@@ -1,0 +1,5 @@
+image:
+  name: choisunguk/helm-importvalues-test
+  tag: example1
+
+message: helloworld

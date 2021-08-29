@@ -1,0 +1,4 @@
+apiVersion: v2
+name: import-values-test-2
+version: 0.0.1
+description: "import-values-test-2"
